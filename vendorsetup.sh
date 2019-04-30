@@ -1,2 +1,2 @@
-add_lunch_combo lineage_adder-userdebug
-add_lunch_combo lineage_adder-eng
+add_lunch_combo do_adder-userdebug
+add_lunch_combo dot_adder-eng

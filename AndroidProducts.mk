@@ -1,3 +1,3 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage.mk \
-    $(LOCAL_DIR)/lineage_adder.mk
+    $(LOCAL_DIR)/dot.mk \
+    $(LOCAL_DIR)/dot_adder.mk
